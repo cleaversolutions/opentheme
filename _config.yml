@@ -10,9 +10,8 @@ description: > # this means to ignore newlines until "url:". One indent required
   Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
 
 # the base hostname & protocol for your site
-url: "http://cleaversolutions.github.io/opentheme/"
-source: /opentheme/
-path: /opentheme/
+url: "http://cleaversolutions.github.io/"
+
 
 twitter_username: manavsehgal
 github_username:  manavsehgal
@@ -24,7 +23,7 @@ default_image: /img/opentheme-workflow.png
 markdown: kramdown
 highlighter: pygments
 safe: true
-permalink: /opentheme/page-title/index.html
+permalink: pretty
 lsi: true # Lexical analysis (true) takes longer for higher quality
 # sass:
 #  style: :compressed
