@@ -22,7 +22,7 @@ default_image: /img/opentheme-workflow.png
 markdown: kramdown
 highlighter: pygments
 safe: true
-permalink: /blog/page-title/index.html
+permalink: /opentheme/page-title/index.html
 lsi: true # Lexical analysis (true) takes longer for higher quality
 # sass:
 #  style: :compressed
